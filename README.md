@@ -1,2 +1,2 @@
-# Partticles.js
+# Particles.js
 Particles Javascript 
